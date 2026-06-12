@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>AI-powered web apps.<br><br>👯 I’m looking to collaborate on<br>Innovative tech projects.<br><br>🤝 I’m looking for help with<br>Deployment and optimization.<br><br>🌱 I’m currently learning<br>Advanced JavaScript concepts.<br><br>💬 Ask me about<br>React and Node.js.<br><br>⚡ Fun fact<br>I enjoy solving coding challenges.
+ I’m currently working on<br>AI-powered web apps.<br>👯 I’m looking to collaborate on<br>Innovative tech projects.<br>🤝 I’m looking for help with<br>Deployment and optimization.<br>🌱 I’m currently learning<br>Advanced JavaScript concepts.<br><br>💬 Ask me about<br>React and Node.js.<br><br>⚡ Fun fact<br>I enjoy solving coding challenges.
 
 
 ## 🌐 Socials:
